@@ -1,1 +1,4 @@
-console.log([68] / [1.7 * 1.7]);
+let userHeight = 1.7;
+let userWeight = 68;
+
+console.log( userWeight / (userHeight * userHeight));
